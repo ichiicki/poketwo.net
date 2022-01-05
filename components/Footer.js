@@ -50,10 +50,7 @@ const Footer = () => (
                 <div className="column is-2-widescreen">
                     <p className="title is-5 mb-2">Pokétwo</p>
                     <FooterLink href="/">Home</FooterLink>
-                    <FooterLink href="/people">People</FooterLink>
                     <FooterLink href="/store">Store</FooterLink>
-                    <FooterLink href="https://github.com/oliver-ni/poketwo" external>
-                        Source Code
                     </FooterLink>
                 </div>
                 <div className="column is-2-widescreen">
@@ -65,9 +62,7 @@ const Footer = () => (
                     <FooterLink href="/code-of-conduct" external>
                         Code of Conduct
                     </FooterLink>
-                    <FooterLink href="https://forms.gle/FMqRugm5v47AvFQM8" external>
-                        Appeals
-                    </FooterLink>
+                    
                 </div>
             </div>
         </div>
