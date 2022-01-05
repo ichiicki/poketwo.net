@@ -17,15 +17,15 @@ const MainLayout = ({ children }) => {
                 {/* <Navbar.Item href="/commands">Commands</Navbar.Item> */}
               
                 <Navbar.Item href="/store">Store</Navbar.Item>
-                <a className="navbar-item" href="https://top.gg/bot/716390085896962058/vote">
+                <a className="navbar-item" href="https://top.gg/bot">
                     Vote
                 </a>
                 <a className="navbar-item" href="https://github.com/oliver-ni/poketwo">
                     GitHub
                 </a>
                 <Navbar.Item>
-                    <a href="https://invite.poketwo.net/" className="button has-shadow is-light is-rounded">
-                        Add Pokétwo
+                    <a href="https://discord.gg/SeQf6PKque" className="button has-shadow is-light is-rounded">
+                        Join Pokevil
                     </a>
                 </Navbar.Item>
             </Navbar>
